@@ -1,1 +1,1 @@
-This repository contains my practical work and experiments in JavaScript, showcasing my growing expertise in programming and interactive web development. It reflects my hands-on learning journey and understanding of modern JavaScript concepts and logic building.
+This repository contains my practical work and experiments in JavaScript, showcasing my growing expertise in programming and interactive web development. It reflects my hands-on learning journey and understanding of modern JavaScript concepts and logic building. 
