@@ -5,3 +5,4 @@ console.warn("This is a warning...");
 console.error("Stop this. This is an Error...");
 // alert("my name is Sayyam");
 console.clear();
+
