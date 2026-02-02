@@ -19,3 +19,9 @@ num++;                      //13
 console.log(num);
 num--;                      //12
 console.log(num);
+
+const pi = 3.14159265359;
+// pi = 5.7478767772749;
+let radius = 4;
+radius = 7;
+console.log(pi*radius*radius);
