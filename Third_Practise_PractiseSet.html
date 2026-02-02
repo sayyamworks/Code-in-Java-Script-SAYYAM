@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Myntra BAG practise set
+    </title>
+    <link rel="stylesheet" href="CSS\Third_Practise_PractiseSet.css">
+  </head>
+  <body>
+    <header>
+
+    </header>
+    <main>
+      <section>
+        <div id="butt1" class="butt"> 
+          <button id="but11" onclick=" cart_quantity += 1; 
+          document.querySelector('#cartSummary').innerText=`Your Bag has ${cart_quantity} items ` ">
+          Add to BAG
+        </button>
+        </div>
+        <div id="butt2" class="butt"> 
+          <button id="but22" onclick="cart_quantity -= 1;
+          document.querySelector('#cartSummary').innerText=`Your Bag has ${cart_quantity} items` ">
+          MOVE TO WISHLIST
+        </button>
+        </div>
+        <div id="butt3" class="butt"> 
+          <button id="but33" onclick="cart_quantity += 2; 
+          document.querySelector('#cartSummary').innerText=`your Bag has ${cart_quantity} items` ">
+          Add 1+1 Sale item
+        </button>
+        </div>
+      </section>
+      <section>
+        <h1 id="cartSummary"></h1>
+      </section>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="Scripts\Third_Practise_PractiseSet.js"></script>
+  </body>
+</html>
