@@ -1,0 +1,28 @@
+section{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin:10px;
+}
+button{
+  border-radius:20px;
+  height:50px;
+  width:170px;
+  cursor: pointer;
+  margin: 5px 100px 5px 50px;
+  align-items: center;
+  background-color: rgb(107, 223, 107);
+  border:none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#butt2 button{
+  height:50px;
+  width:220px;
+  background-color:rgb(219, 217, 217);
+  border:3px solid black;
+}
+#butt1 button{
+  height:50px;
+  width:110px;
+}
